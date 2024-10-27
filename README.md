@@ -30,4 +30,4 @@ The first task is to visualize an earthquake dataset. Complete the following ste
 Here is a screenshot of my map.
 ![image](https://github.com/user-attachments/assets/36e7a892-6892-47ff-8887-7c78a20866f4)
 
-With this link, you can access the map. 
+With this link, https://rawcdn.githack.com/Grisy-98/leaflet-challenge/923b2f101a1b77510da37ba621f09cdc67722291/Leaflet-Part-1/index.html, you can access the map. 
